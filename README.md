@@ -1,1 +1,8 @@
-# iamswap
+# Hey! I'm Swapnil Bhavsar
+
+I'm a Lead Developer at Chitranu by day, and a freelance developer by night. Here, I blog about Laravel, Vue.js & other web design/development topics.
+
+## Say Hi!
+ - [Personal Blog](https://swapnil.dev)
+ - [Twitter](https://twitter.com/swapnil_bhavsar)
+ - [Instagram](https://instagram/swapnilbhavsar)
