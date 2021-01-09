@@ -5,4 +5,4 @@ I'm a Lead Developer at [Chitranu](https://chitranu.com) by day, and a freelance
 ## 👋 Say Hi! 
  - [Personal Blog](https://swapnil.dev)
  - [Twitter](https://twitter.com/swapnil_bhavsar)
- - [Instagram](https://instagram.com/swapnilbhavsar)
+ - [Linkedin](https://linkedin.com/in/swapnilbhavsar)
