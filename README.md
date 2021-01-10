@@ -1,6 +1,8 @@
 # Hey! I'm Swapnil Bhavsar
 
-I'm a Lead Developer at [Chitranu](https://chitranu.com) by day, and a freelance developer by night. Here, I blog about Laravel, Vue.js & other web design/development topics.
+I'm a freelance full-stack developer with primarily focus on [Laravel](https://laravel.com), [Vue](https://vuejs.org) and [React](https://reactjs.org). I also blog about web design/development topics at my personal [blog](https://swapnil.dev).
+
+PS: I'm available for [hire](mailto:hey@swapnil.dev)!
 
 ## 👋 Say Hi! 
  - [Personal Blog](https://swapnil.dev)
